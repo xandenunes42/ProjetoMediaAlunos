@@ -1,0 +1,11 @@
+C:\Users\0220482223030\source\repos\ProjetoMedia\ProjetoMedia\bin\Debug\ProjetoMedia.exe.config
+C:\Users\0220482223030\source\repos\ProjetoMedia\ProjetoMedia\bin\Debug\ProjetoMedia.exe
+C:\Users\0220482223030\source\repos\ProjetoMedia\ProjetoMedia\bin\Debug\ProjetoMedia.pdb
+C:\Users\0220482223030\source\repos\ProjetoMedia\ProjetoMedia\obj\Debug\ProjetoMedia.csproj.AssemblyReference.cache
+C:\Users\0220482223030\source\repos\ProjetoMedia\ProjetoMedia\obj\Debug\ProjetoMedia.csproj.SuggestedBindingRedirects.cache
+C:\Users\0220482223030\source\repos\ProjetoMedia\ProjetoMedia\obj\Debug\ProjetoMedia.Form1.resources
+C:\Users\0220482223030\source\repos\ProjetoMedia\ProjetoMedia\obj\Debug\ProjetoMedia.Properties.Resources.resources
+C:\Users\0220482223030\source\repos\ProjetoMedia\ProjetoMedia\obj\Debug\ProjetoMedia.csproj.GenerateResource.cache
+C:\Users\0220482223030\source\repos\ProjetoMedia\ProjetoMedia\obj\Debug\ProjetoMedia.csproj.CoreCompileInputs.cache
+C:\Users\0220482223030\source\repos\ProjetoMedia\ProjetoMedia\obj\Debug\ProjetoMedia.exe
+C:\Users\0220482223030\source\repos\ProjetoMedia\ProjetoMedia\obj\Debug\ProjetoMedia.pdb
